@@ -1,2 +1,2 @@
-# mycodesamples
-My code samples for job interview (Junior Developer)
+# Microwave (Java)
+ Microwave represented as a GUI object with some functionality.
