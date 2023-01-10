@@ -1,7 +1,7 @@
 /**
  * Program Name: Microwave.java
- * Coder:		 Bohdan Simakov
- * Date: 	     July 1, 2020
+ * Coder:	 Bohdan Simakov
+ * Date: 	 July 1, 2020
  * Description:  Microwave represented as a GUI object.
  */
 
