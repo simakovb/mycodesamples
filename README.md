@@ -1,2 +1,1 @@
-# mycodesamples
-My code samples for job interview (Junior Developer)
+Product-home component represents a page with a list of products and its' information stored that is stored database on the server side. Product-detail component provides more decription about the product and allows CRUD (Create, Read, Update, Delete) modifications.
